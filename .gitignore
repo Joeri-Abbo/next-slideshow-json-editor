@@ -1,0 +1,5 @@
+next-env.d.ts
+.idea
+node_modules
+
+.next/
