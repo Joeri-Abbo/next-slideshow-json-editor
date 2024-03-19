@@ -18,7 +18,7 @@
     "react-quill": "^2.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.25",
+    "@types/node": "^20.11.30",
     "@types/react": "^18.2.67",
     "typescript": "^5.4.2"
   }
